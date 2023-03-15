@@ -21,7 +21,7 @@ class StinToTestImplTest {
 
     @Test
     void sumMehodTest3(){
-        Assertions.assertEquals(-4, stinToTest.sum(-1 , -1));
+        Assertions.assertEquals(-2, stinToTest.sum(-1 , -1));
     }
 
 }
