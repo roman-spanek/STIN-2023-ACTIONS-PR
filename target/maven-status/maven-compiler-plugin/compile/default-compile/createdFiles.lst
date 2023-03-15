@@ -1,0 +1,9 @@
+cz/tul/roman/spanek/stin/impl/StinCommonImpl.class
+cz/tul/roman/spanek/stin/interfaces/ISquare.class
+cz/tul/roman/spanek/stin/impl/StinToTestImpl.class
+cz/tul/roman/spanek/stin/interfaces/IIsPositive.class
+cz/tul/roman/spanek/stin/interfaces/IToImplement.class
+cz/tul/roman/spanek/stin/interfaces/IStinCommon.class
+cz/tul/roman/spanek/stin/interfaces/IStinToTest.class
+cz/tul/roman/spanek/stin/interfaces/IIsNegative.class
+cz/tul/roman/spanek/stin/STIN2023MainDriver.class
