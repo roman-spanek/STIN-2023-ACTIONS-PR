@@ -19,7 +19,6 @@ class StinToTestImplTest {
         Assertions.assertEquals(0, stinToTest.sum(0 , 0));
     }
 
-    
     @Test
     void sumMehodTest3(){
         Assertions.assertEquals(-2, stinToTest.sum(-1 , -1));
